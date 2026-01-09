@@ -1,5 +1,5 @@
 # 🚀 SREERAG KT 
-
+!(SREE_PIC.jpg)
 Welcome to my personal portfolio website repository.  
 This portfolio showcases my academic background, technical skills, projects, and career aspirations as a **Data Science graduate student** aiming to become a **Data Engineer**.
 
